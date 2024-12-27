@@ -1,5 +1,5 @@
-# paperless-ngx document importer
-This is a template for Microsoft Excel to import documents data from paperless-ngx via API.
+# paperless-ngx document exporter
+This is a template for Microsoft Excel to export documents data from paperless-ngx via API to Excel.
 # Compatibility
 Tested with [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) Release 2.13.5 and Microsoft Excel 2019 on Microsoft Windows 11.
 # Prerequisites
