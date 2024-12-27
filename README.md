@@ -16,6 +16,7 @@ Tested with [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) Rele
 - You can remove columns on sheet "documents" as you wish or change their order.
 - If you have documents with more than 4 tags, you can add more columns with "tag" in first row. They have to be all next to column "tagStart".
 # Know issues and open tasks
+- add some examples for queries
 - importing notes
 - importing custom fields
 - bring tags into numeric order
