@@ -3,7 +3,7 @@ This is a template for Microsoft Excel to import documents data from paperless-n
 # Compatibility
 Tested with [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) Release 2.13.5 and Microsoft Excel 2019 on Microsoft Windows 11.
 # Prerequisites
-- you need a licence of MS Excel to use this template
+- you need a licence of Microsoft Excel to use this template
 - you need to have access to an instanz of paperless-ngx with an personal token
 - you need to have the rights zu read documents, storage paths, users, document type, correspondents and tags in that instance
 # Installation
