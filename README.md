@@ -18,7 +18,9 @@ Tested with [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) Rele
 - If you have documents with more than 4 tags, you could add more columns with "tag" in first row. They have to be all next to column "tagStart".
 # Know issues and open tasks
 - add some examples for queries
+- use pages in query for big results
 - importing notes
 - importing custom fields
+- publishing version with self-building code
 - bring tags into numeric order
 - import tags seperated by komma in one row as alternative to seperated rows
