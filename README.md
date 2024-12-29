@@ -22,3 +22,6 @@ Tested with [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) Rele
 - publishing version with self-building code
 - bring tags into numeric order
 - import tags seperated by komma in one row as alternative to seperated rows
+# Acknowledgments
+I used code from an answer of Daniel Ferry ("Excel Hero") on stackoverflow (https://stackoverflow.com/questions/6627652/). His code helps to parse JSON in Excel without using additional libaries. Many thanks to him!
+
