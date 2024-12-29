@@ -1,7 +1,7 @@
 # paperless-ngx document importer
 This is a template for Microsoft Excel to import documents data from paperless-ngx via API to Excel.
 # Compatibility
-Tested with [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) Release 2.13.5 and Microsoft Excel 2019 on Microsoft Windows 11.
+Tested with [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) Release 2.13.5, Microsoft Excel 2019 on Microsoft Windows 11 and more than 5.000 documents.
 # Prerequisites
 - you need a licence of Microsoft Excel to use this template
 - you need to have access to an instanz of paperless-ngx with a personal token (generate via Django 
@@ -17,7 +17,6 @@ Tested with [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) Rele
 - You could remove columns on sheet "documents" as you wish or change their order.
 - If you have documents with more than 4 tags, you could add more columns with "tag" in first row. They have to be all next to column "tagStart".
 # Know issues and open tasks
-- use pages in query for big results
 - importing notes
 - importing custom fields
 - publishing version with self-building code
