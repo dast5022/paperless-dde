@@ -13,11 +13,10 @@ Tested with [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) Rele
 - insert your personal token, when template is asking you
 - this file is configured not to save personal informations like the last person who saved file. You can allows this again by activating on tab "File" of MS Excel main menue
 # Use and Configuration
-- You could change the query to select documents from your database. For example find out the id of other tags via Django and fill in into query. Your could also try http://your-instance/API/ an play around with filters and afterwards copy a query from the URL.
+- You could change the query to select documents from your database. For example find out the id of other tags and fill in into query. Your could also try http://your-instance/api/ an play around with filters and afterwards copy a query from the URL.
 - You could remove columns on sheet "documents" as you wish or change their order.
 - If you have documents with more than 4 tags, you could add more columns with "tag" in first row. They have to be all next to column "tagStart".
 # Know issues and open tasks
-- add some examples for queries
 - use pages in query for big results
 - importing notes
 - importing custom fields
