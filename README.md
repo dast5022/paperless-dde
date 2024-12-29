@@ -15,10 +15,10 @@ Tested with [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) Rele
 # Use and Configuration
 - You could change the query to select documents from your database. For example find out the id of other tags and fill in into query. Your could also try http://your-instance/api/ an play around with filters and afterwards copy a query from the URL.
 - You could remove columns on sheet "documents" as you wish or change their order.
+- You can add columns named like your custom fields
 - If you have documents with more than 4 tags, you could add more columns with "tag" in first row. They have to be all next to column "tagStart".
 # Know issues and open tasks
 - importing notes
-- importing custom fields
 - publishing version with self-building code
 - bring tags into numeric order
 - import tags seperated by komma in one row as alternative to seperated rows
