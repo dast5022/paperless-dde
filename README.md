@@ -18,10 +18,10 @@ Tested with [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) Rele
 - You can add columns named like your custom fields
 - If you have documents with more than 4 tags, you could add more columns with "tag" in first row. They have to be all next to column "tagStart".
 # Know issues and open tasks
-- importing notes
 - publishing version with self-building code
 - bring tags into numeric order
 - import tags seperated by komma in one row as alternative to seperated rows
+- progress bar or something similar
 # Acknowledgments
 I used code from an answer of Daniel Ferry ("Excel Hero") on stackoverflow (https://stackoverflow.com/questions/6627652/). His code helps to parse JSON in Excel without using additional libaries. Many thanks to him!
 
