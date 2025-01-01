@@ -22,7 +22,7 @@ You want to play it safe and download the source code yourself, then
 - start MS Excel and open new empty worksheet
 - use "save as" to save it with a name you prefer but change file type to ".xlsm" (with macros)
 - use tab "Developer" and add a new macro named "makro1" or directly switch to VBA coding editor with menue "View Code"
-- in VBA coding editor: import th file eding with ".bas" via "Files"
+- in VBA coding editor: import the file eding with ".bas" via "Files"
 - change back to normal user interface of MS Excel and start the macro "A_BuildApplication"
 - the application is build by itself, you can now use it:
 - insert the IP-address of your paperless instance
