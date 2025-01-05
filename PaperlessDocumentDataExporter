@@ -1,8 +1,8 @@
-Attribute VB_Name = "PaperlessDocumentImporter"
+Attribute VB_Name = "PaperlessDocumentDataExporter"
 Private p&, token, dic
 Global UserToken As String
 Const pageSize As Integer = 200
-Const ProgrammVersion As String = "v2.0.0"
+Const ProgrammVersion As String = "v2.0.1"
 
 
 Sub GetDocumentTypes()
@@ -1260,7 +1260,7 @@ startBuild:
         .MergeCells = False
     End With
     Range("A1").Select
-    ActiveCell.FormulaR1C1 = "Paperless Document Importer, " & ProgrammVersion
+    ActiveCell.FormulaR1C1 = "paperless-ngx Document Data Exporter, " & ProgrammVersion
     Range("A1").Select
     Rows("1:1").RowHeight = 52.2
     With Selection
