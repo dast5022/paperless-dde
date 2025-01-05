@@ -35,8 +35,11 @@ You want to play it safe and download the source code yourself, then
 - If you have documents with more than 4 tags, you could add more columns with "tag" in first row. They have to be all next to column "tagStart".
 # Know issues and open tasks
 - bring tags into numeric order
-- import tags seperated by komma in one row as alternative to seperated rows
+- export tags seperated by komma in one row as alternative to seperated rows
+- export notes into seperated rows, as an alternative, similar to tags
+- export more permissions as owner
 - progress bar or something similar
+- update functionality
 # Acknowledgments
 I used code from an answer of Daniel Ferry ("Excel Hero") on stackoverflow (https://stackoverflow.com/questions/6627652/). His code helps to parse JSON in Excel without using additional libaries. Many thanks to him!
 
